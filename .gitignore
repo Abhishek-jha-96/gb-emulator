@@ -1,0 +1,16 @@
+# Binaries
+target/
+*.exe
+*.dll
+*.so
+*.dylib
+
+# Logs
+*.log
+
+# IDE & Editor Settings
+.vscode/
+.idea/
+
+# Dependency Caches
+node_modules/
